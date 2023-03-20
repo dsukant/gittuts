@@ -1,0 +1,4 @@
+*.log
+errorlog
+dir/
+*.pptx
